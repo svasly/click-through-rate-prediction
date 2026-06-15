@@ -1,0 +1,25 @@
+{
+    "total_features_count": 20,
+    "feature_names": [
+        "high_cat__device_model",
+        "high_cat__C14",
+        "high_cat__site_id",
+        "high_cat__site_domain",
+        "high_cat__C17",
+        "low_cat__app_domain_0e8616ad",
+        "low_cat__app_domain_7801e8d9",
+        "low_cat__app_domain_82e27996",
+        "low_cat__app_domain_ae637522",
+        "low_cat__app_domain_b9528b13",
+        "low_cat__C21_15",
+        "low_cat__C21_61",
+        "low_cat__C21_71",
+        "low_cat__app_category_cef3e649",
+        "low_cat__app_category_f95efa07",
+        "low_cat__site_category_28905ebd",
+        "low_cat__C1_1010",
+        "low_cat__banner_pos_0",
+        "low_cat__banner_pos_1",
+        "low_cat__device_type_1"
+    ]
+}
